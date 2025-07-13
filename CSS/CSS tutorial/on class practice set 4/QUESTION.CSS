@@ -1,0 +1,106 @@
+body{
+    background-color:brown;
+}
+div{
+    background-color: #0f1111;
+    color: aliceblue;
+    height: 60px;
+    border: 200px;
+    border-color: white;
+    padding: 10px;
+    
+}
+/* nav bar divs */
+#home{
+    color: #f08804;
+    text-size-adjust :25px;
+    margin-right: 200px;
+    text-decoration: none
+}
+
+#YourAccount{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none
+}
+
+#MyCart{
+    color:white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#contactus{
+    color:white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#search{
+    background-color:#f08804 ;
+    color: white;
+}
+/* body divs */
+
+#firstdiv{
+    height: 100px;
+    width: 100px;
+    color:blueviolet;
+    background-color:rgba(21, 240, 32,0.5);
+    margin :30px;
+    border: 20px;
+    display:inline-block
+}
+
+#seconddiv{
+    height: 100px;
+    width: 100px;
+    color:blueviolet;
+    background-color: rgba(72, 224, 224,0.5);
+    margin :30px;
+    border: 20px;
+    display:inline-block
+}
+#thirddiv{
+    height: 100px;
+    width: 100px;
+    color:blueviolet;
+    background-color:rgba(255, 223, 44,0.5);
+    margin :30px;
+    border: 20px;
+    display:inline-block
+}
+
+#contentarea{
+    height: 700px;
+    background-color:gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

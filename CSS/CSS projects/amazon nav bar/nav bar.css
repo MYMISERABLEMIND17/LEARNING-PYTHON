@@ -1,0 +1,44 @@
+body{
+    background-color:slateblue;
+    margin: 20;
+}
+
+div{
+    background-color: #0f1111;
+    color: aliceblue;
+    height: 60px;
+    border: 200px;
+    border-color: white;
+    padding: 10px;
+    
+}
+
+#home{
+    color: #f08804;
+    text-size-adjust :25px;
+    margin-right: 200px;
+    text-decoration: none
+}
+
+#YourAccount{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none
+}
+
+#MyCart{
+    color:white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#contactus{
+    color:white;
+    margin-right: 200px;
+    text-decoration: none;
+}
+
+#search{
+    background-color:#f08804 ;
+    color: white;
+}

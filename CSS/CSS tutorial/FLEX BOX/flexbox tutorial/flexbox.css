@@ -1,0 +1,66 @@
+h1{
+    color:whitesmoke;
+    text-decoration: solid;
+    text-align: center
+
+    
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+#container{
+    height: 400px;
+    border: 10px white solid;
+    text-align: center;
+    margin:100px;
+    display: flex;
+    justify-content:center ;
+    
+}
+
+#first{
+    color:black;
+    background-color: cadetblue;
+    height: 200px;
+    width:200px ; 
+    display: inline-block;
+    
+}
+#second{
+    color:black;
+    background-color: rgb(92, 81, 152);
+    height: 200px;
+    width:200px ; 
+    display: inline-block;
+    
+}
+#third{
+    color:black;
+    background-color: rgb(63, 136, 63);
+    height: 200px;
+    width:200px ;
+    display: inline-block;
+    
+}
+#fourth{
+    color:black;
+    background-color: rgb(170, 98, 158);
+    height: 200px;
+    width:200px ; 
+    display: inline-block;
+    
+
+}
+#fifth{
+    color:black ;
+    background-color:rgb(164, 64, 64);
+    height: 200px;
+    width:200px ; 
+    display: inline-block;
+}
+
+
+
+
+

@@ -1,0 +1,25 @@
+div{
+   height: 100px;
+   width: 100px ;
+   background-color: pink;
+   position:fixed;
+   right: 0px;
+   top:0px;
+   z-index:1;
+}
+body{
+   background-color: black;
+}
+
+p{
+   color: aqua;
+}
+
+
+
+
+
+
+
+
+

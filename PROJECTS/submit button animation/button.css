@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color:antiquewhite
+}
+div{
+    width:200px;
+    height: 100px;
+    background-color: brown;
+    border: 5px grey solid;
+    border-radius:60px;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    display: flexbox;
+    align-content: center;
+    animation-name: button;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+
+@keyframes button{
+    from{
+        width:200px;
+        height: 100px;
+        background-color: brown;
+        border: 5px grey solid;
+        border-radius:60px;
+        font-weight: bolder;
+        font-size: x-large;
+        text-align: center;
+
+    }
+    to{
+        width: 150px;
+        height: 150px;
+        background-color: rgb(54, 120, 54);
+        border-radius: 50%;
+        p
+        
+    }
+}
+
+
+
+
+

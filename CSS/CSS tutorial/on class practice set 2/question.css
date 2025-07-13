@@ -1,0 +1,31 @@
+ /* QUESTION 1
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    text-decoration: underline;
+}
+p  {text-align: center;
+    color: cornflowerblue;
+    text-transform: capitalize;
+} */
+
+/* QUESTION 2 
+ p{
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large
+}   */
+
+/* QUESTION 3 */
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+
+
+
+
+
+

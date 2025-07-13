@@ -1,0 +1,79 @@
+body{
+     background-color: #E5D9F2;
+}
+#upperportion{
+    background-color:#E5D9F2;
+    height:300px;
+    width: 1500px;
+    background-color:#F5EFFF;
+}
+#navbar{
+    height: 60px;
+    width: 1500px;
+    background-color: #A594F9;
+    display :flex;
+    justify-content:space-between;
+}
+#home{
+    height: 20px;
+    width: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #E5D9F2;
+    padding: 5px;
+}
+#bar{
+    height: 20px;
+    width: 40px;
+    margin-top: 10px;
+    padding: 5px;
+    margin-right:300px;
+}
+#search{
+    height: 20px;
+    width: 50px;
+    margin: 10px;
+    background: #E5D9F2;
+    padding: 5px;
+    margin-right:0px;
+}
+#yourorders{
+    height: 20px;
+    width: 90px;
+    margin: 10px;
+    background: #E5D9F2;
+    padding: 5px;
+}
+#cart{
+    height: 20px;
+    width: 40px;
+    margin: 10px;
+    background: #E5D9F2;
+    padding: 5px;
+}
+#youraccount{
+    height: 20px;
+    width: 100px;
+    margin: 10px;
+    background: #E5D9F2;
+    padding: 5px;
+
+}
+#top{
+    color:#756AB6;
+    text-align: center;
+    font-size:xx-large;
+    font-family:monospace;
+}
+
+
+
+
+
+
+
+
+
+
+
+
